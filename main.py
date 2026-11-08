@@ -84,10 +84,10 @@ def default_reply_keyboard() -> ReplyKeyboardMarkup:
         resize_keyboard=True
     )
 
-MAIN_OWNER = 8978106847
-SUPER_ADMIN_NAME = "@Hackerwibes1"
+MAIN_OWNER = 5468237078
+SUPER_ADMIN_NAME = "@Hackerwibes"
 SUPER_ADMIN_LINK = "https://t.me/Hackerwibes1"
-SUPER_ADMINS = [8750692819]
+SUPER_ADMINS = [5468237078]
 
 BOT_TOKEN = "8303513254:AAFcK4p2OGRfY4fESbIv9wQX8lX3rhQl-70"
 LOG_CHANNEL_ID = -1004386153714
