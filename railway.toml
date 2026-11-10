@@ -1,0 +1,5 @@
+[build]
+  builder = "NIXPACKS"
+
+[deploy]
+  startCommand = "python main.py"  # If your Procfile is present, this is optional but good as a fallback
